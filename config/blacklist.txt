@@ -1,3 +1,12 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
-/audio/
+audio
+https://stream1.freetv.fun/
+https://live.lalifeier.eu.org
+php.jdshipin.com
+kkk.jjjj.jiduo.me
+http://smart.tv.home.kg/
+https://cdn5.132.us.kg/ 
+http://itv.iptv1688.top 
+http://8.138.7.223/
+http://satellitepull.cnr.cn
