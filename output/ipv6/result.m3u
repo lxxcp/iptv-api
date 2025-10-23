@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lxxcp/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-10-23 06:43:41
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-10-23 18:54:35
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -340,7 +340,7 @@ http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV16 奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16 奥林匹克.png" group-title="📺央视频道",CCTV-16 奥林匹克
 https://iptv.catvod.com/catvod.php?id=cctv16&token=7375646f55113ded3767fe1cd2e646843773e85b
 #EXTINF:-1 tvg-name="CCTV16 奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16 奥林匹克.png" group-title="📺央视频道",CCTV-16 奥林匹克
-http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1760491422613
+https://live.catvod.com/live.php?id=cctv16&token=fb34f217df590c8cbe45645c830c4b762117106575509fff4a36cbe07c509184%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="CCTV17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17 农业农村.png" group-title="📺央视频道",CCTV-17 农业农村
 https://cc06.tv12.xyz/17.m3u8
 #EXTINF:-1 tvg-name="CCTV17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17 农业农村.png" group-title="📺央视频道",CCTV-17 农业农村
@@ -392,7 +392,9 @@ http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV16 奥林匹克 4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16 奥林匹克 4K.png" group-title="📺央视频道",CCTV-16 奥林匹克 4K
 https://iptv.catvod.com/catvod.php?id=cctv16&token=7375646f55113ded3767fe1cd2e646843773e85b
 #EXTINF:-1 tvg-name="CCTV16 奥林匹克 4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16 奥林匹克 4K.png" group-title="📺央视频道",CCTV-16 奥林匹克 4K
-http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1760491422613
+https://live.catvod.com/live.php?id=cctv16&token=fb34f217df590c8cbe45645c830c4b762117106575509fff4a36cbe07c509184%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
+https://live.catvod.com/live.php?id=CGTN&token=395b38f158aec9fcb0df278cc9644e4d0860ff90924a7c18e8c5a14873eeb9ca%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
 https://hls-gateway.vpstv.net/streams/709501.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
@@ -1358,6 +1360,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="📺广东频道",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="📺广东频道",广东珠江
+https://live.catvod.com/live.php?id=zhujiang&token=6e705566a39d236b12b9b7272b95281dfc8e2c6e8848a2fd3f71c4d97a0b19ef%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="📺广东频道",广东珠江
 http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="📺广东频道",广东珠江
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
@@ -1410,7 +1414,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="📺广东频道",大湾区卫视
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010108/1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="📺广东频道",大湾区卫视
-https://hls-gateway.vpstv.net/streams/708866.m3u8
+https://live.catvod.com/live.php?id=nanfang_twn&token=528b5e7e373e7bb903353772db05b178c6216ad2a584b469a8f1e72750ad1029%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东影视.png" group-title="📺广东频道",广东影视
 https://hls-gateway.vpstv.net/streams/661873.m3u8
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/岭南戏曲.png" group-title="📺广东频道",岭南戏曲
@@ -2674,15 +2678,25 @@ http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="齐齐哈尔新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/齐齐哈尔新闻综合.png" group-title="📺黑龙江频道",齐齐哈尔新闻综合
 http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="📺香港频道",AXN
+https://live.catvod.com/live.php?id=Axn&token=68aa165125fdc2aa23c93a6d2eeb6a0ef27ca9d2d769247d87a93ff35a756264%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/AXN.png" group-title="📺香港频道",AXN
 https://hls-gateway.vpstv.net/streams/709502.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="📺香港频道",Animax
 https://hls-gateway.vpstv.net/streams/709503.m3u8
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CN卡通.png" group-title="📺香港频道",CN卡通
 https://hls-gateway.vpstv.net/streams/476247.m3u8
+#EXTINF:-1 tvg-name="DAZN1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DAZN1.png" group-title="📺香港频道",DAZN1
+https://live.catvod.com/live.php?id=dazn1_twn&token=be6bb04c626e8249818e7ece5cf8e03241834d96c1392a23826ce6e1aca24b12%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DAZN2.png" group-title="📺香港频道",DAZN2
+https://live.catvod.com/live.php?id=dazn2_twn&token=5c405633785d688357951f6fcd3094720874bf772b9f9f882d8336171366b650%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="HOY76" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY76.png" group-title="📺香港频道",HOY76
 https://hls-gateway.vpstv.net/streams/709270.m3u8
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY78.png" group-title="📺香港频道",HOY78
 http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK31.png" group-title="📺香港频道",RTHK31
+https://live.catvod.com/live.php?id=rhk31_twn&token=4b05074ee9ec7c0108f57d067d3ed4f03cf690b571ef039ffa83b81dc153355c%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="📺香港频道",RTHK32
+https://live.catvod.com/live.php?id=rhk32_twn&token=a99fad11a03893d9572dbee15cf6f5d71a2c5ee9debcdaa811faebcd4f0b4b7f%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="📺香港频道",RTHK32
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB1.png" group-title="📺香港频道",TVB1
@@ -2712,6 +2726,8 @@ https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="📺香港频道",中视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="📺香港频道",中视
+https://live.catvod.com/live.php?id=zhongshihd_twn&token=3d7ed2c30b8aba1f574430cec9ff3222639463e5b9560626e1c999c4a05c6816%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="📺香港频道",中视
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="📺香港频道",中视
 https://hls-gateway.vpstv.net/streams/476983.m3u8
@@ -2719,6 +2735,8 @@ https://hls-gateway.vpstv.net/streams/476983.m3u8
 https://hls-gateway.vpstv.net/streams/476269.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="📺香港频道",中视新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="📺香港频道",中视新闻
+https://live.catvod.com/live.php?id=zhongshinews_twn&token=6a3fb8ae511ad4d49e4d2901ad2949f374fb139faab2f3f145b59d2520f77bee%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="📺香港频道",中视新闻
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="📺香港频道",中视新闻
@@ -2756,7 +2774,7 @@ https://4k.11cn.dpdns.org/29.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="📺香港频道",凤凰香港
 https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="📺香港频道",凤凰香港
-https://hls-gateway.vpstv.net/streams/476960.m3u8
+https://live.catvod.com/live.php?id=hkphoenix_twn&token=ae042b7d0976fd1df0e5d5e61c2abaad284aab5b9734729c32e94be569fc4528%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="📺香港频道",凤凰中文
 http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="📺香港频道",凤凰中文
@@ -2776,7 +2794,7 @@ https://4k.11cn.dpdns.org/27.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="📺香港频道",凤凰中文
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="📺香港频道",凤凰中文
-https://hls-gateway.vpstv.net/streams/476959.m3u8
+https://live.catvod.com/live.php?id=phoenixtv_hd&token=5eb8c34a1e2c738c4781ef72f0ee6f67d59ff460e35c95a3ea4bf8028c6621f9%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="📺香港频道",凤凰资讯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="📺香港频道",凤凰资讯
@@ -2804,13 +2822,19 @@ https://hls-gateway.vpstv.net/streams/477088.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="📺香港频道",华视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="📺香港频道",华视
+https://live.catvod.com/live.php?id=ctshd_twn&token=12ad75e31ef63322df9e1d14875f884a042834ba86eb4fd066146b64d92f9776%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="📺香港频道",华视
 https://hls-gateway.vpstv.net/streams/476985.m3u8
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯无限.png" group-title="📺香港频道",博斯无限
+https://live.catvod.com/live.php?id=bosiunlimited_twn&token=f29948b667eec01a79561dae975eef6d97c37e906a727b20d87af970209b3e07%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯无限.png" group-title="📺香港频道",博斯无限
 https://hls-gateway.vpstv.net/streams/477603.m3u8
 #EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯无限.png" group-title="📺香港频道",博斯无限
 https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
 #EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯无限2.png" group-title="📺香港频道",博斯无限2
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn13
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯网球.png" group-title="📺香港频道",博斯网球
+https://live.catvod.com/live.php?id=bositennis_twn&token=6c555cbb2e8158b53a5dd29b4e431109b22190250e37f6b86b3551e4e44fd1a7%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯网球.png" group-title="📺香港频道",博斯网球
 https://hls-gateway.vpstv.net/streams/477602.m3u8
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/博斯网球.png" group-title="📺香港频道",博斯网球
@@ -2836,6 +2860,10 @@ https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="📺香港频道",天映经典
 https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="📺香港频道",天映经典
+https://live.catvod.com/live.php?id=Celestial2&token=75eafddd86692751aa37c4bd96f4b3bba5571ef090667d3a615fb40ca9305aa1%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="📺香港频道",天映经典
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="📺香港频道",天映经典
 https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="📺香港频道",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
@@ -2858,6 +2886,8 @@ https://hls-gateway.vpstv.net/streams/477083.m3u8
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="📺香港频道",非凡新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="📺香港频道",非凡新闻
+https://live.catvod.com/live.php?id=feifannews_twn&token=1e6c088255f906b6bf6b8c643b4b16daad96c072a2a32080727110a7e9c3507c%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="📺香港频道",非凡新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="📺香港频道",非凡新闻
 https://tv.iill.top/litv/4gtv-4gtv010
@@ -2877,6 +2907,8 @@ https://hls-gateway.vpstv.net/streams/488934.m3u8
 https://hls-gateway.vpstv.net/streams/477069.m3u8
 #EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大娱乐台.png" group-title="📺台湾频道",八大娱乐台
 https://hls-gateway.vpstv.net/streams/477064.m3u8
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="📺台湾频道",三立台湾
+https://live.catvod.com/live.php?id=sanlitaiwan&token=e3e44349d40333148fe139f97c0a434ab55012bd84a9047a517df57830bb7d51%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="📺台湾频道",三立新闻
 https://hls-gateway.vpstv.net/streams/492922.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="📺台湾频道",三立新闻
@@ -2885,10 +2917,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://tv.iill.top/4gtv/229
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="📺台湾频道",三立新闻
 https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会.png" group-title="📺台湾频道",三立都会
+https://live.catvod.com/live.php?id=sanlidouhui_twn&token=d5e4f1bd9e270045f83494009ac1586807d43f3e254eda3f757ddf771e85d738%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="📺台湾频道",三立戏剧
 https://hls-gateway.vpstv.net/streams/476288.m3u8
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="📺台湾频道",三立戏剧
 https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="📺台湾频道",三立戏剧
+https://live.catvod.com/live.php?id=sanlixiju_twn&token=7a5dbe945bd9d591befadf19bb374fd6da85b4fa403f3ba072bf228b3f1c4da9%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立综合.png" group-title="📺台湾频道",三立综合
+https://live.catvod.com/live.php?id=sanlizhonghe&token=c32243d5aad03ec9521a26c7c9932ee4eff7d9497d6c558aba2b31678b1acd1f%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立综合.png" group-title="📺台湾频道",三立综合
 https://hls-gateway.vpstv.net/streams/476257.m3u8
 #EXTINF:-1 tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立综合.png" group-title="📺台湾频道",三立综合
@@ -2898,6 +2936,8 @@ https://hls-gateway.vpstv.net/streams/476998.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="📺台湾频道",东森新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="📺台湾频道",东森新闻
+https://live.catvod.com/live.php?id=ettvnews&token=ff1102e8e44e10ddef0d7f3475aab4ef76ee83fc76d1c6add1337e003e279a0d%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="📺台湾频道",东森新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="📺台湾频道",东森新闻
 https://tv.iill.top/litv/4gtv-4gtv152
@@ -2905,28 +2945,40 @@ https://tv.iill.top/litv/4gtv-4gtv152
 https://hls-gateway.vpstv.net/streams/476995.m3u8
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="📺台湾频道",东森电影
 https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="📺台湾频道",东森电影
+https://live.catvod.com/live.php?id=ettvmovie&token=a55c71ecd7aec9ffa598dd076af94903cac8f2fb3afa69788aafbeeb6b6d824e%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧.png" group-title="📺台湾频道",东森戏剧
 https://hls-gateway.vpstv.net/streams/476994.m3u8
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧.png" group-title="📺台湾频道",东森戏剧
+https://live.catvod.com/live.php?id=ettvdrama&token=bb2b33861e3b59b209e383067ec4d0db36f3fab75884bddd6cfec0c740305d96%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="📺台湾频道",东森洋片
 https://hls-gateway.vpstv.net/streams/476997.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="📺台湾频道",东森洋片
 http://live.catvod.com/smart.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="📺台湾频道",东森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="📺台湾频道",东森洋片
 https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="📺台湾频道",东森综合
 https://hls-gateway.vpstv.net/streams/476987.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="📺台湾频道",东森综合
 https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="📺台湾频道",东森综合
+https://live.catvod.com/live.php?id=ettvzhonghe&token=c368243854b2dff6cc0c75082e5b7c4b297c4dde915add3c6777f4d35f51a335%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经新闻.png" group-title="📺台湾频道",东森财经新闻
 https://hls-gateway.vpstv.net/streams/477062.m3u8
 #EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经新闻.png" group-title="📺台湾频道",东森财经新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv153
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经新闻.png" group-title="📺台湾频道",东森财经新闻
+https://live.catvod.com/live.php?id=ettvcaijing_twn&token=dc72b843006b20da2a6f12a06e6a9c892941edf6f2be4e3c38a6fd1ff528c86e%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经新闻.png" group-title="📺台湾频道",东森财经新闻
 https://tv.iill.top/litv/4gtv-4gtv153
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="📺台湾频道",东森超视
 https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="📺台湾频道",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="📺台湾频道",东森超视
+https://live.catvod.com/live.php?id=ettvsuper&token=a7a4a3d0e2ca31fdd266af6108b88f04dd724f4a5432140e53bad26d5d4057e8%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="东森亚洲卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森亚洲卫视.png" group-title="📺台湾频道",东森亚洲卫视
 https://hls-gateway.vpstv.net/streams/476264.m3u8
 #EXTINF:-1 tvg-name="东森亚洲卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森亚洲卫视.png" group-title="📺台湾频道",东森亚洲卫视
@@ -2940,6 +2992,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="📺台湾频道",中天新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="📺台湾频道",中天新闻
+https://live.catvod.com/live.php?id=ctinews&token=10fbff070789aecb1eaa5a5d5b109088321fa728b0a291e3425b657d5b85d191%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="📺台湾频道",中天新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="📺台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -2947,10 +3001,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 https://tv.iill.top/litv/4gtv-4gtv009
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="📺台湾频道",中天娱乐
 https://hls-gateway.vpstv.net/streams/476996.m3u8
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="📺台湾频道",中天娱乐
+https://live.catvod.com/live.php?id=ctient&token=fc5411301a6a383d4dc02ce65c255a0db5ed96f5b70e9049e53f5c0c7c3dd92b%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="📺台湾频道",中天综合
 https://hls-gateway.vpstv.net/streams/477084.m3u8
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="📺台湾频道",中天综合
+https://live.catvod.com/live.php?id=ctizhonghe&token=a52f95bd8aeffacf57c991e060aeb3df8f51e83d85fa7f0f245a3c34dd2a89a5%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="📺台湾频道",中天亚洲
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="📺台湾频道",中天亚洲
+https://live.catvod.com/live.php?id=ctiasia_twn&token=b630621904be37118f4f83021e4aa87dbc19ee058efa5b5a742f29e6d0c62aff%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="📺台湾频道",中天亚洲
 https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 #EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="📺台湾频道",中天亚洲
@@ -2960,11 +3020,15 @@ https://tv.iill.top/litv/4gtv-4gtv109
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="📺台湾频道",台视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="📺台湾频道",台视
+https://live.catvod.com/live.php?id=ttv_taiwan&token=09651b1c8ac8471e4f456db6e631e5384cc6edafa7db4d9f6bbdc4b9eacfc114%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="📺台湾频道",台视
 https://hls-gateway.vpstv.net/streams/476982.m3u8
 #EXTINF:-1 tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视财经.png" group-title="📺台湾频道",台视财经
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv056
 #EXTINF:-1 tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视财经.png" group-title="📺台湾频道",台视财经
 https://hls-gateway.vpstv.net/streams/476271.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视综合.png" group-title="📺台湾频道",台视综合
+https://live.catvod.com/live.php?id=ttvzhonghe&token=c3da8030acde0b7a30c37064289618c8cf00b45aa96cb935150e24844df0ecca%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视综合.png" group-title="📺台湾频道",台视综合
 https://hls-gateway.vpstv.net/streams/708885.m3u8
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视综合.png" group-title="📺台湾频道",台视综合
@@ -2973,6 +3037,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
 https://hls-gateway.vpstv.net/streams/476268.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="📺台湾频道",台视新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="📺台湾频道",台视新闻
+https://live.catvod.com/live.php?id=ttvnews_twn&token=9be024a223b399afaac19665d1547f6da6a94de4a8ff56a4bf11954996ab1af0%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="📺台湾频道",台视新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="📺台湾频道",台视新闻
@@ -2990,6 +3056,8 @@ https://hls-gateway.vpstv.net/streams/476986.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="📺台湾频道",民视
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="📺台湾频道",民视
+https://live.catvod.com/live.php?id=ftvhd_taiwan&token=6f470e2638eb11dabc92c7d0bbcfe6a900ddccb6c6037e0ad4a8114efa1883bd%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="📺台湾频道",民视
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="📺台湾频道",民视
 https://tv.iill.top/litv/4gtv-4gtv002
@@ -2998,11 +3066,15 @@ https://hls-gateway.vpstv.net/streams/479210.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="📺台湾频道",民视新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="📺台湾频道",民视新闻
+https://live.catvod.com/live.php?id=ftvnew_taiwan&token=45399cfba96c701104d381e94818469f8f2f5696fd2955041d9ea6d87fec0510%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="📺台湾频道",民视新闻
 https://www.judy.xx.kg/judy.php?id=litv-ftv13
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="📺台湾频道",民视新闻
 https://tv.iill.top/litv/litv-ftv13
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾.png" group-title="📺台湾频道",民视台湾
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾.png" group-title="📺台湾频道",民视台湾
+https://live.catvod.com/live.php?id=ftvtaiwan_twn&token=48ae0115be0f705c2fa211f91021db53b2e5dee041443d8bb7b4c360d73ddfe8%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾.png" group-title="📺台湾频道",民视台湾
 https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾.png" group-title="📺台湾频道",民视台湾
@@ -3020,6 +3092,8 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png" group-title="📺台湾频道",龙华偶像
 https://cdn3.132.us.kg/live/lhox/stream.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png" group-title="📺台湾频道",龙华偶像
+https://live.catvod.com/live.php?id=lunghuaidol_twn&token=7703853886b3cf524c2429c4be103e8f8379f58b15cbef947921ef31e5e84b05%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png" group-title="📺台湾频道",龙华偶像
 https://hls-gateway.vpstv.net/streams/708930.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像.png" group-title="📺台湾频道",龙华偶像
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
@@ -3036,6 +3110,8 @@ https://hls-gateway.vpstv.net/streams/476293.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="📺台湾频道",龙华戏剧
 https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="📺台湾频道",龙华戏剧
+https://live.catvod.com/live.php?id=lunghuaxiju_twn&token=fc69e318a34ea4d339c5ae7390a93e3ce04dc8e428d371c4d23130fa46ff3f39%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="📺台湾频道",龙华戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn18
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="📺台湾频道",龙华戏剧
 https://tv.iill.top/litv/litv-longturn18
@@ -3051,6 +3127,8 @@ https://hls-gateway.vpstv.net/streams/476231.m3u8
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="📺台湾频道",龙华洋片
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="📺台湾频道",龙华洋片
+https://live.catvod.com/live.php?id=lunghuawestern_twn&token=17753b485d22006e0d886bbe6e678bd94d48ac33f07d3c99c5e846ce2cde87d2%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="📺台湾频道",龙华洋片
 https://hls-gateway.vpstv.net/streams/477076.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="📺台湾频道",龙华洋片
@@ -3075,6 +3153,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="📺台湾频道",龙华电影
 https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="📺台湾频道",龙华电影
+https://live.catvod.com/live.php?id=xingwei_movie&token=e22389bb9afe67336dd91e8ce7af019e8b563fd49c48bfd2a6891da473f5afe9%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="📺台湾频道",龙华电影
 https://tv.iill.top/litv/litv-longturn03
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="📺台湾频道",TVBS亚洲
