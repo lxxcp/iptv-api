@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lxxcp/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-11-12 06:58:27
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-11-12 19:03:51
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -3539,6 +3539,8 @@ https://fenghuang.tv12.xyz/181.m3u8
 http://cdn.132.us.kg/live/asam/stream.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="📺澳门频道",澳视澳门
 https://cdn6.101.qzz.io/163189/asam
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="📺澳门频道",澳视澳门
+http://r.jdshipin.com/n2YZI
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="📺澳门频道",澳门莲花
 https://hls-gateway.vpstv.net/streams/476223.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="📺澳门频道",澳门莲花
@@ -4035,6 +4037,8 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-long
 https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华卡通.png" group-title="📺台湾频道",龙华卡通
 https://live.catvod.com/iptv.php?id=longhkt
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华卡通.png" group-title="📺台湾频道",龙华卡通
+http://cdn8.163189.xyz/163189/lhkt
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="📺台湾频道",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="📺台湾频道",龙华戏剧
@@ -4065,6 +4069,8 @@ https://cdn3.132.us.kg/live/lhrh/stream.m3u8
 https://hls-gateway.vpstv.net/streams/476231.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华日韩.png" group-title="📺台湾频道",龙华日韩
 https://live.catvod.com/iptv.php?id=longhrh
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华日韩.png" group-title="📺台湾频道",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="📺台湾频道",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="📺台湾频道",龙华洋片
@@ -4097,6 +4103,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 https://hls-gateway.vpstv.net/streams/476294.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华经典.png" group-title="📺台湾频道",龙华经典
 https://live.catvod.com/iptv.php?id=longhjd
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华经典.png" group-title="📺台湾频道",龙华经典
+http://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="📺台湾频道",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影.png" group-title="📺台湾频道",龙华电影
