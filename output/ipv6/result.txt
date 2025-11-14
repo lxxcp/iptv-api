@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-14 07:00:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-11-14 19:15:13,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1 综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -183,10 +183,13 @@ CCTV-17 农业农村,http://nas.suntao.online:35455/itv/1000000005000265015.m3u8
 CCTV-17 农业农村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4 中文国际欧洲,https://iptv.catvod.com/catvod.php?id=cctv4o
+CCTV-4 中文国际欧洲,https://live.chinacert.cftest5.cn/mg/?id=608807419
 CCTV-4 中文国际美洲,https://iptv.catvod.com/catvod.php?id=cctv4a
+CCTV-4 中文国际美洲,https://live.chinacert.cftest5.cn/mg/?id=608807416
 CCTV4K 超高清,https://hls-gateway.vpstv.net/streams/708821.m3u8
 CCTV4K 超高清,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
 CCTV4K 超高清,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K 超高清,https://iptv.catvod.com/live.php?id=CCTV4K
 CCTV8K 超高清,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 CCTV-16 奥林匹克 4K,https://hls-gateway.vpstv.net/streams/709089.m3u8
 CCTV-16 奥林匹克 4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8
@@ -219,11 +222,13 @@ CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
 CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
 CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
 CGTN俄语,https://iptv.catvod.com/live.php?id=CGTN%E4%BF%84%E8%AF%AD
+CGTN俄语,https://live.chinacert.cftest5.cn/mg/?id=609006446
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf
 CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf
 CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
 CGTN法语,https://iptv.catvod.com/live.php?id=CGTN%E6%B3%95%E8%AF%AD
+CGTN法语,https://live.chinacert.cftest5.cn/mg/?id=609006476
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN西语,http://goo.bkpcp.top/mg/cgtne
 CGTN西语,http://z.b.bkpcp.top/m.php?id=cgtne
@@ -286,19 +291,24 @@ CHC家庭影院,https://iptv.catvod.com/catvod.php?id=chcjt&token=7375646f55113d
 CHC家庭影院,https://shyd.695847.xyz/cms001/ch00000090990000001570/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+CHC家庭影院,https://live.chinacert.cftest5.cn/mg/?id=644368373
 CHC影迷电影,https://iptv.catvod.com/catvod.php?id=chcym&token=7375646f55113ded3767fe1cd2e646843773e85b
 CHC影迷电影,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
+CHC影迷电影,https://live.chinacert.cftest5.cn/mg/?id=952383261
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
+重温经典,https://live.catvod.com/iptv.php?id=cwjd
 中央新影-中学生,http://goo.bkpcp.top/mg/zxs
 中央新影-中学生,http://z.b.bkpcp.top/m.php?id=zxs
 中央新影-中学生,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%AD%A6%E7%94%9F
+中央新影-中学生,https://live.chinacert.cftest5.cn/mg/?id=708869532
 中央新影-老故事,http://goo.bkpcp.top/mg/lgs
 中央新影-老故事,http://z.b.bkpcp.top/m.php?id=lgs
 中央新影-老故事,https://iptv.catvod.com/live.php?id=%E8%80%81%E6%95%85%E4%BA%8B
+中央新影-老故事,https://live.chinacert.cftest5.cn/mg/?id=884121956
 中央新影-发现之旅,http://z.b.bkpcp.top/m.php?id=fxzl
 中央新影-发现之旅,https://epg-1.iill.top/v/Rest.mp4
 中央新影-发现之旅,https://epg-1.iill.top/v/444.mp4
@@ -838,6 +848,7 @@ BRTV纪实科教,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88
 BRTV纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8
 BRTV纪实科教,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226658/1.m3u8
 BRTV纪实科教,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99
+中华特产,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7
 四海钓鱼,http://goo.bkpcp.top/mg/shdy
 四海钓鱼,http://z.b.bkpcp.top/m.php?id=shdy
 四海钓鱼,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC
@@ -847,6 +858,7 @@ BRTV纪实科教,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E7%BA%AA
 东方卫视4K,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K
 上海新闻综合,http://z.b.bkpcp.top/m.php?id=shxwzh
 上海新闻综合,https://iptv.catvod.com/live.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+上海新闻综合,https://live.chinacert.cftest5.cn/mg/?id=651632657
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 东方影视,http://gat.bkpcp.top/ymg.php?id=shys
 东方影视,http://z.b.bkpcp.top/m.php?id=dfys
@@ -969,11 +981,15 @@ BRTV纪实科教,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E7%BA%AA
 优漫卡通,http://wouu.net:9977/udp/239.93.0.251:5140
 优漫卡通,https://iptv.catvod.com/live.php?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93
 优漫卡通,https://iptv.catvod.com/live.php?id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A
+优漫卡通,https://live.chinacert.cftest5.cn/mg/?id=626064703
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy
 江苏教育,http://goo.bkpcp.top/mg/jsjy
 江苏教育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2
+江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321
 江苏国际,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85
+江苏国际,https://live.chinacert.cftest5.cn/mg/?id=626064674
 财富天下,https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B
+财富天下,https://live.chinacert.cftest5.cn/mg/?id=956923159
 南京新闻综合,http://z.b.bkpcp.top/m.php?id=njxwzh
 南京新闻综合,https://iptv.catvod.com/live.php?id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93
 南京新闻综合,https://iptv.catvod.com/live.php?id=%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
@@ -982,6 +998,7 @@ BRTV纪实科教,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E7%BA%AA
 南京教科,https://iptv.catvod.com/live.php?id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
 宿迁新闻综合,https://iptv.catvod.com/live.php?id=%E5%AE%BF%E8%BF%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+宿迁新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639731832
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡新闻综合,http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8?zjiangsd
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
@@ -1006,13 +1023,19 @@ BRTV纪实科教,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E7%BA%AA
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh
 连云港新闻综合,https://iptv.catvod.com/live.php?id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+连云港新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639731715
 南通新闻综合,https://iptv.catvod.com/live.php?id=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+南通新闻综合,https://live.chinacert.cftest5.cn/mg/?id=955227985
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 徐州新闻综合,http://z.b.bkpcp.top/m.php?id=xzxwzh
 徐州新闻综合,https://iptv.catvod.com/live.php?id=%E5%BE%90%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+徐州新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639731747
 盐城新闻综合,https://iptv.catvod.com/live.php?id=%E7%9B%90%E5%9F%8E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+盐城新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639731825
 泰州新闻综合,https://iptv.catvod.com/live.php?id=%E6%B3%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+泰州新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639731818
 溧水新闻综合,https://iptv.catvod.com/live.php?id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+溧水新闻综合,https://live.chinacert.cftest5.cn/mg/?id=639737327
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 
 📺辽宁频道,#genre#
@@ -1179,6 +1202,7 @@ BRTV纪实科教,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E7%BA%AA
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://goo.bkpcp.top/mg/hxws
 海峡卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86
+海峡卫视,https://live.chinacert.cftest5.cn/mg/?id=849119120
 厦门卫视,https://iptv.catvod.com/catvod.php?id=xmws&token=7375646f55113ded3767fe1cd2e646843773e85b
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 厦门卫视,http://goo.bkpcp.top/mg/xmws
@@ -1859,6 +1883,7 @@ TVB星河,https://live.catvod.com/iptv.php?id=xinghe
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://tv.iill.top/4gtv/229
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
+三立新闻,https://vx65267199.18cn.dpdns.org/23.m3u8
 三立都会,https://live.catvod.com/live.php?id=sanlidouhui_twn&token=9574e08dc16707e63e5e582abac572cd7dd88afb52dff1560077d4113439d1f7%3A1760491003%3ANTIuMTUwLjI5Ljk4
 三立都会,https://live.catvod.com/live.php?id=sanlidouhui_twn&token=c54c274ac8e174a526e3fbed14de77cb0428b86d96f2208e0314774017efc8bd%3A1761960146%3AMTcyLjIxNS4yMTAuMjMx
 三立都会,https://live.catvod.com/live.php?id=sanlidouhui_twn&token=fe92cdca3cee577be5079991a0a495397ba6b40ef700ea06e4a52c1bf019affa%3A1762046545%3AMjAuNTUuMTMuMTYw
@@ -2089,6 +2114,7 @@ TVB星河,https://live.catvod.com/iptv.php?id=xinghe
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华卡通,https://live.catvod.com/iptv.php?id=longhkt
 龙华卡通,http://cdn8.163189.xyz/163189/lhkt
+龙华卡通,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn01
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,https://hls-gateway.vpstv.net/streams/476293.m3u8
 龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
@@ -2105,6 +2131,7 @@ TVB星河,https://live.catvod.com/iptv.php?id=xinghe
 龙华日韩,https://hls-gateway.vpstv.net/streams/476231.m3u8
 龙华日韩,https://live.catvod.com/iptv.php?id=longhrh
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华日韩,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn11
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
 龙华洋片,https://live.catvod.com/live.php?id=lunghuawestern_twn&token=88fd7d8ec63b530e4ea7b4b34baf70c7b4e61c5c76551d245f57ee1808136a41%3A1760491003%3ANTIuMTUwLjI5Ljk4
@@ -2122,6 +2149,7 @@ TVB星河,https://live.catvod.com/iptv.php?id=xinghe
 龙华经典,https://hls-gateway.vpstv.net/streams/476294.m3u8
 龙华经典,https://live.catvod.com/iptv.php?id=longhjd
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华经典,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn21
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://hls-gateway.vpstv.net/streams/476300.m3u8
 龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
