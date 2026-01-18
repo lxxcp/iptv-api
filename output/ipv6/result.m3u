@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/lxxcp/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="🕘️更新时间",2026-01-18 06:52:20
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="🕘️更新时间",2026-01-18 18:54:06
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="CCTV1 综合.png" group-title="央视",CCTV-1 综合
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -613,6 +613,8 @@ https://migu.188766.xyz/?migutoken=7f51739990828a388d1547f659db172b&id=CHC%E5%BD
 https://migu.188766.xyz/?migutoken=d0761a177077dcd64a4caa0d8357816b&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="CHC影迷电影.png" group-title="央视",CHC影迷电影
 https://migu.188766.xyz/?migutoken=86fac7bfa3b2e171790768bf14562b23&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="CHC影迷电影.png" group-title="央视",CHC影迷电影
+https://migu.188766.xyz/?migutoken=1ebb4ca3caa8dea85aa906659e46047d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
 https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="重温经典.png" group-title="央视",重温经典
@@ -1727,6 +1729,8 @@ https://hk.188766.xyz/?migutoken=d40d55ce5698f976cef64a93a1dc6e84&id=gd_gdms&typ
 https://hk.188766.xyz/?migutoken=46436e1ef8fc7b78f195efb512383441&id=gd_gdms&type=sz
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="广东",广东民生
 https://hk.188766.xyz/?migutoken=73164673d115b5b664c9f824b171bc88&id=gd_gdms&type=sz
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="广东",广东民生
+https://hk.188766.xyz/?migutoken=e10e4894d4b9a3ef732137cefdf62e18&id=gd_gdms&type=sz
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="广东体育.png" group-title="广东",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="广东体育.png" group-title="广东",广东体育
@@ -1785,6 +1789,8 @@ https://hk.188766.xyz/?migutoken=06dbd9880bbd65b0d5d1f4f05ee8a724&id=gd_gdxw&typ
 https://hk.188766.xyz/?migutoken=b6626e5c7a1db6b1c6e525dbd150f0fe&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="广东新闻.png" group-title="广东",广东新闻
 https://hk.188766.xyz/?migutoken=b166f77239bda2228ee6f471c6f5b0cc&id=gd_gdxw&type=sz
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="广东新闻.png" group-title="广东",广东新闻
+https://hk.188766.xyz/?migutoken=db11ee308a9dc61573bb8118fda1c528&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="广东",大湾区卫视
 https://migu.188766.xyz/?migutoken=e8a6e47016ca52a3a8b2d3e1e4627b46&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="广东",大湾区卫视
@@ -1823,6 +1829,8 @@ https://hk.188766.xyz/?migutoken=88ef36c90132c550cf9a6de900df05d5&id=gd_gdys&typ
 https://hk.188766.xyz/?migutoken=ec19a0a08ce4fdb360000c8276414e18&id=gd_gdys&type=sz
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="广东影视.png" group-title="广东",广东影视
 https://hk.188766.xyz/?migutoken=13d2b296e7c1a4b993c3d7a43e66d051&id=gd_gdys&type=sz
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="广东影视.png" group-title="广东",广东影视
+https://hk.188766.xyz/?migutoken=a9c8c7d4b81bd525e4060a4f7bf88e9e&id=gd_gdys&type=sz
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="广东少儿.png" group-title="广东",广东少儿
 https://hk.188766.xyz/?migutoken=e436623cf89397620dbd80f05c61b5e8&id=gd_gdse&type=sz
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="广东少儿.png" group-title="广东",广东少儿
@@ -1839,6 +1847,8 @@ https://hk.188766.xyz/?migutoken=7e240fe1fbaf4e3351a861b1b0744cd6&id=gd_gdse&typ
 https://hk.188766.xyz/?migutoken=bd5e983fefc530c08da64e11e55a2aa1&id=gd_gdse&type=sz
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="广东少儿.png" group-title="广东",广东少儿
 https://hk.188766.xyz/?migutoken=25180539c084147875263260fe3683ab&id=gd_gdse&type=sz
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="广东少儿.png" group-title="广东",广东少儿
+https://hk.188766.xyz/?migutoken=4499251eec5100e04d33ca2f0b756232&id=gd_gdse&type=sz
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="岭南戏曲.png" group-title="广东",岭南戏曲
 https://hk.188766.xyz/?migutoken=486c6f9a8b1d0ff4ea4d6f93e4f76eee&id=gd_lnxq&type=sz
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="岭南戏曲.png" group-title="广东",岭南戏曲
@@ -1857,6 +1867,8 @@ https://hk.188766.xyz/?migutoken=18e09bd64fdd719456215e27db3cb7ad&id=gd_lnxq&typ
 https://hk.188766.xyz/?migutoken=ba943969378faeb71b5393e1fc6b0ce0&id=gd_lnxq&type=sz
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="岭南戏曲.png" group-title="广东",岭南戏曲
 https://hk.188766.xyz/?migutoken=26a761f7eeacebd08410a5195986b8f1&id=gd_lnxq&type=sz
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="岭南戏曲.png" group-title="广东",岭南戏曲
+https://hk.188766.xyz/?migutoken=de4a896c79da329a9a454cfd404b3daf&id=gd_lnxq&type=sz
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="现代教育.png" group-title="广东",现代教育
 https://hk.188766.xyz/?migutoken=097b06214f8b20fb8f15472417ffe82a&id=gd_xdjy&type=sz
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="现代教育.png" group-title="广东",现代教育
@@ -1873,6 +1885,8 @@ https://hk.188766.xyz/?migutoken=929b8fa18a75083bef053b14cec6dfe4&id=gd_xdjy&typ
 https://hk.188766.xyz/?migutoken=706d52c65c7e054eee9210cd23bc0d82&id=gd_xdjy&type=sz
 #EXTINF:-1 tvg-name="现代教育" tvg-logo="现代教育.png" group-title="广东",现代教育
 https://hk.188766.xyz/?migutoken=9f9850beb9364b7cb9c300552e940375&id=gd_xdjy&type=sz
+#EXTINF:-1 tvg-name="现代教育" tvg-logo="现代教育.png" group-title="广东",现代教育
+https://hk.188766.xyz/?migutoken=4e3163327f63c80cba1c4a357374998f&id=gd_xdjy&type=sz
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="深圳都市.png" group-title="广东",深圳都市
 https://hls-gateway.vpstv.net/streams/708846.m3u8
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="深圳财经生活.png" group-title="广东",深圳财经生活
@@ -1925,6 +1939,8 @@ https://migu.188766.xyz/?migutoken=f2a3ef263235ac6ea8e136b9d5b5481f&id=%E5%8C%97
 https://migu.188766.xyz/?migutoken=e054935877e5f5e7fead98902f8c1de9&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
 #EXTINF:-1 tvg-name="BRTV文艺" tvg-logo="BRTV文艺.png" group-title="北京",BRTV文艺
 https://migu.188766.xyz/?migutoken=649138f206803409779791f934402604&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+#EXTINF:-1 tvg-name="BRTV文艺" tvg-logo="BRTV文艺.png" group-title="北京",BRTV文艺
+https://migu.188766.xyz/?migutoken=86150d5546d1ece8e493681d745e4244&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
 #EXTINF:-1 tvg-name="BRTV体育休闲" tvg-logo="BRTV体育休闲.png" group-title="北京",BRTV体育休闲
 http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-name="BRTV体育休闲" tvg-logo="BRTV体育休闲.png" group-title="北京",BRTV体育休闲
@@ -1945,6 +1961,8 @@ https://migu.188766.xyz/?migutoken=83a1657e041b13e3804f2eccaafa3a5e&id=%E5%8C%97
 https://migu.188766.xyz/?migutoken=fd32a73dc4e7b1c35adce013928dd7f2&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="BRTV影视" tvg-logo="BRTV影视.png" group-title="北京",BRTV影视
 https://migu.188766.xyz/?migutoken=b0cf5f784644de244ef8225f4e170be6&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-name="BRTV影视" tvg-logo="BRTV影视.png" group-title="北京",BRTV影视
+https://migu.188766.xyz/?migutoken=32d7fe1fd75a81caf9592a1fbd9739df&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="BRTV财经" tvg-logo="BRTV财经.png" group-title="北京",BRTV财经
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 #EXTINF:-1 tvg-name="BRTV生活" tvg-logo="BRTV生活.png" group-title="北京",BRTV生活
@@ -2025,6 +2043,8 @@ https://migu.188766.xyz/?migutoken=f7acb727370927a849c88a87d9647e12&id=%E5%8C%97
 https://migu.188766.xyz/?migutoken=c39608c41709b41289d9130a447bac5c&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
 #EXTINF:-1 tvg-name="BRTV纪实科教" tvg-logo="BRTV纪实科教.png" group-title="北京",BRTV纪实科教
 https://migu.188766.xyz/?migutoken=24b51485bb0e8b772a91056e0c97670f&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+#EXTINF:-1 tvg-name="BRTV纪实科教" tvg-logo="BRTV纪实科教.png" group-title="北京",BRTV纪实科教
+https://migu.188766.xyz/?migutoken=3fac5c5fe674a3b968d666a58ce5a380&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="四海钓鱼.png" group-title="北京",四海钓鱼
 https://migu.188766.xyz/?migutoken=ad7bd0748cebdcf9e0595dd56c708230&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="四海钓鱼.png" group-title="北京",四海钓鱼
@@ -2041,6 +2061,8 @@ https://migu.188766.xyz/?migutoken=e27c9f358e396992eade607777b15a54&id=%E5%9B%9B
 https://migu.188766.xyz/?migutoken=e09d46d1efe72f32c4677c1071b22815&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="四海钓鱼.png" group-title="北京",四海钓鱼
 https://migu.188766.xyz/?migutoken=49d26689141cecc7fa58f1c5c05de2d6&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="四海钓鱼.png" group-title="北京",四海钓鱼
+https://migu.188766.xyz/?migutoken=b446fce3041f925a35242e632807b20c&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="环球旅游.png" group-title="北京",环球旅游
 https://migu.188766.xyz/?migutoken=59ded6f87786cc2123efdec6d3c76d1f&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="环球旅游.png" group-title="北京",环球旅游
@@ -2053,6 +2075,8 @@ https://migu.188766.xyz/?migutoken=7545b5c23f06c87702c200206b9a4d13&id=%E7%8E%AF
 https://migu.188766.xyz/?migutoken=452fea26b583b7b73619b693cda71732&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="环球旅游.png" group-title="北京",环球旅游
 https://migu.188766.xyz/?migutoken=7ac1d8182b6a47274630c5716c886fac&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="环球旅游.png" group-title="北京",环球旅游
+https://migu.188766.xyz/?migutoken=7c7109ba4e1123ccb25d26ae81d2898f&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="上海新闻综合.png" group-title="上海",上海新闻综合
 https://migu.188766.xyz/?migutoken=ec8f7afd8227e9340da7144bb31ab561&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="上海新闻综合.png" group-title="上海",上海新闻综合
@@ -2367,6 +2391,8 @@ https://migu.188766.xyz/?migutoken=747ff1b4f6f7cbfffd449ac177a1a387&id=%E8%B4%A2
 https://migu.188766.xyz/?migutoken=82c32481ccae4af683bafecb53408f88&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="财富天下.png" group-title="江苏",财富天下
 https://migu.188766.xyz/?migutoken=908c48d63b95ac737e5876f168c117ed&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="财富天下.png" group-title="江苏",财富天下
+https://migu.188766.xyz/?migutoken=f940cc97c991ff3656253215a31f5a5c&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="南京新闻综合.png" group-title="江苏",南京新闻综合
 https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="南京新闻综合.png" group-title="江苏",南京新闻综合
@@ -2813,6 +2839,8 @@ https://migu.188766.xyz/?migutoken=e679506d58f7f5cc35cafb42ff22321e&id=%E4%B8%AD
 https://migu.188766.xyz/?migutoken=db2bad0ba88be468da6b857e8ef46b0f&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="农林卫视.png" group-title="陕西",农林卫视
 https://migu.188766.xyz/?migutoken=7c0f7f69dcdb5407ebb9f34bd01f1c17&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="农林卫视.png" group-title="陕西",农林卫视
+https://migu.188766.xyz/?migutoken=9285e7d4efdfc14bb1c9d224fd96171c&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="榆林综合" tvg-logo="榆林综合.png" group-title="陕西",榆林综合
 http://hplayer1.juyun.tv/camera/140908134.m3u8
 #EXTINF:-1 tvg-name="榆林文化旅游" tvg-logo="榆林文化旅游.png" group-title="陕西",榆林文化旅游
@@ -2993,6 +3021,8 @@ https://migu.188766.xyz/?migutoken=da67f33d672e1e8ab5e0df385d2e40c6&id=%E6%B3%95
 https://migu.188766.xyz/?migutoken=e9c07554955a35492bf02b2decb839a9&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南法治" tvg-logo="河南法治.png" group-title="河南",河南法治
 https://migu.188766.xyz/?migutoken=0186fa5d6a378c04cbb0d1e48181c18b&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="河南法治.png" group-title="河南",河南法治
+https://migu.188766.xyz/?migutoken=ae3e7b91acbcb5db25bb22e06f67de7c&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="河南电视剧.png" group-title="河南",河南电视剧
 https://migu.188766.xyz/?migutoken=acc0ee499136708158e4591bbd974bcf&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="河南电视剧.png" group-title="河南",河南电视剧
@@ -3009,6 +3039,8 @@ https://migu.188766.xyz/?migutoken=db222942328b98db2c88bdf2d8c07763&id=%E7%94%B5
 https://migu.188766.xyz/?migutoken=210ac99a8796b17a16fcd35453033bfd&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="河南电视剧.png" group-title="河南",河南电视剧
 https://migu.188766.xyz/?migutoken=7cf785fa0b5a2b981d13405a9ba2914e&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="河南电视剧.png" group-title="河南",河南电视剧
+https://migu.188766.xyz/?migutoken=31e203991581ac7812e6c3014e5da512&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="河南新闻.png" group-title="河南",河南新闻
 https://migu.188766.xyz/?migutoken=9235ee524787a91a176f1aa35cb7903c&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="河南新闻.png" group-title="河南",河南新闻
@@ -3025,6 +3057,8 @@ https://migu.188766.xyz/?migutoken=f59e396c8f7519395898e670752cf04c&id=%E6%96%B0
 https://migu.188766.xyz/?migutoken=1e1691a7054416c169895562bb800f07&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="河南新闻.png" group-title="河南",河南新闻
 https://migu.188766.xyz/?migutoken=b8cf0dd9e501f5e1b7389a1bd2b56b56&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="河南新闻.png" group-title="河南",河南新闻
+https://migu.188766.xyz/?migutoken=8a325b36f16aa64ed33c1c4376a24208&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="河南公共.png" group-title="河南",河南公共
 https://migu.188766.xyz/?migutoken=982ac86b889db8e3765295e346d325b9&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="河南公共.png" group-title="河南",河南公共
@@ -3041,6 +3075,8 @@ https://migu.188766.xyz/?migutoken=c71e6679866efe7ff6d80ade7ef3b7ec&id=%E5%85%AC
 https://migu.188766.xyz/?migutoken=f6bf8f2af952d3197ab5fc0ff0b6dd83&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南公共" tvg-logo="河南公共.png" group-title="河南",河南公共
 https://migu.188766.xyz/?migutoken=c5e495e77c18c2d3cb28a54cb82bd15a&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="河南公共.png" group-title="河南",河南公共
+https://migu.188766.xyz/?migutoken=9a4a23af5bae6046fc12cc72ad161b8d&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="河南乡村.png" group-title="河南",河南乡村
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=f65f25906bbd43f8216ffbc47f12f5f9&wsTime=1768017580
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="河南乡村.png" group-title="河南",河南乡村
@@ -3057,6 +3093,8 @@ http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=4689f0ce62f8cc25e5cca1dbe1522add&wsTime=1768536030
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="河南乡村.png" group-title="河南",河南乡村
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=730ad19ca1e89ef9195caaada7cbe3aa&wsTime=1768622345
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="河南乡村.png" group-title="河南",河南乡村
+http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=aa6564422068e17f2a03d0c77769692b&wsTime=1768708726
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="梨园频道.png" group-title="河南",梨园频道
 http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=59f720bdb27b7073e01ddb4d815cbcb4&wsTime=1742014827
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="梨园频道.png" group-title="河南",梨园频道
@@ -3079,6 +3117,8 @@ https://migu.188766.xyz/?migutoken=2db5b0e121474d4f573af05807171b4c&id=%E6%AD%A6
 https://migu.188766.xyz/?migutoken=ddac95fee16f7f7119d157136a5e8bc2&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="武术世界.png" group-title="河南",武术世界
 https://migu.188766.xyz/?migutoken=f49127af0942093995b6d625cdbe1cd4&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="武术世界.png" group-title="河南",武术世界
+https://migu.188766.xyz/?migutoken=a3562236bada92a4e2a144a2111aef33&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="文物宝库.png" group-title="河南",文物宝库
 http://cdn.jdshipin.com:8880/hntv.php?id=wwbk
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="文物宝库.png" group-title="河南",文物宝库
