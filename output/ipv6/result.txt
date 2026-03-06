@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-06 00:25:39,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-06 12:03:03,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视,#genre#
 CCTV-1 综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1525,7 +1525,9 @@ BRTV卡酷少儿,https://migu.188766.xyz/?migutoken=ef56973fef74c79a05223855a65a
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 泸州新闻综合,http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+泸州新闻综合,http://tvdrs.luzhoubs.com:8100/channellive/lztv1.flv
 泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+泸州科教生活,http://tvdrs.luzhoubs.com:8100/channellive/lztv3.flv
 广安新闻综合,http://live1.gatv.com.cn:90/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:90/live/GGPD.m3u8
 甘孜综合,http://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
@@ -1537,6 +1539,8 @@ BRTV卡酷少儿,https://migu.188766.xyz/?migutoken=ef56973fef74c79a05223855a65a
 彭山综合,https://play.psrmt.cn/live/ZYADBGLP_C0/playlist.m3u8
 营山综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 洪雅综合,http://dg1sy-livehls.migucloud.com/live/TIMV9AKA_C0/playlist.m3u8
+泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+泸县综合,http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
 北川综合,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
